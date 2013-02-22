@@ -1,0 +1,7 @@
+Makefile*
+pr0nget
+pr0nget.exe
+ui_*
+*.o
+*~
+moc_*
